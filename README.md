@@ -13,6 +13,7 @@ details of barrier options and mathematical background of Monte-Carlo Simulation
 this process and secondly, the codes are explained.
 
 
+
 1.1 Barrier option and Monte Carlo Simulation
 1. Barrier Options Definition:
 Barrier options are a type of exotic option whose payoff depends not only on the strike
